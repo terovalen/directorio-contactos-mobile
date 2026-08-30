@@ -1,0 +1,41 @@
+# dependencias
+node_modules/
+
+# credenciales de Firebase (no versionar)
+.env
+.env.local
+.env*.local
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# nativo
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# sistema
+.DS_Store
+*.pem
+
+# typescript
+*.tsbuildinfo
+
+# carpetas nativas generadas
+/ios
+/android
