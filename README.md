@@ -1,8 +1,8 @@
 # Directorio de Contactos
 
-**Nombre completo:** [Completar con tu nombre completo]
+**Nombre completo:** Emmanuel
 
-**Sistema operativo:** Linux
+**Sistema operativo:** Windows
 
 Aplicación móvil de tres pantallas (lista, detalle y registro) hecha con Expo, React Navigation (Stack) y Cloud Firestore. Taller de Introducción a React Native — Tecnológico de Antioquia.
 
